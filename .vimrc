@@ -6,6 +6,7 @@ set fileencodings=utf-8,euc-jp
 
 "日本語版ヘルプドキュメントの参照
 helptags ~/dotfiles/.vim/doc
+
 "VI互換モードオフ
 set nocompatible
 
